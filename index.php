@@ -29,7 +29,7 @@
                     </path>
                 </svg>
             </span>
-            <span class="icon-text">Light-Weighttttt!</span>
+            <span class="icon-text">Merron-Weighttttt!</span>
         </label>
         <label for="x2" class="button">
             <span class="icon">
@@ -73,22 +73,24 @@
             </div>
             <div class="slide">
                 <div class="slide__content">
-                    <h2 class="title">Train like never</h2>
-                    <p class="subtitle">Praesentium, sequi hic nesciunt velit ea? Cupiditate sunt, mollitia dicta.</p>
+                    <h2 class="title">Train like never before</h2>
+                    <p class="subtitle">With The State Of The Art Facilities, Anything Is Possible Here at The Merron's
+                    </p>
                     <p></p>
                 </div>
             </div>
             <div class="slide">
                 <div class="slide__content">
                     <h2 class="title">Empower your body</h2>
-                    <p class="subtitle">Omnis, eligendi ex eius eum, incidunt repellendus architecto hic quasi!</p>
+                    <p class="subtitle">Take Your Body On To The Next Level. The Merrons Are Here To Stay.</p>
                     <p></p>
                 </div>
             </div>
             <div class="slide">
                 <div class="slide__content">
                     <h2 class="title">Schedule your time</h2>
-                    <p class="subtitle">Vero repellendus nihil dolorem, molestiae culpa assumenda!</p>
+                    <p class="subtitle">Would You Like To Pop In? Schedule An Appointment Right Now With One Of Our
+                        Staff</p>
                     <p></p>
                 </div>
             </div>

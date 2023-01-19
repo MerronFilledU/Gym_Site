@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
 :root {
-    --color-primary: hsl(344, 96%, 54%);
+    --color-primary: hsl(327, 96%, 54%);
     --color-primary-l: hsl(344, 96%, 64%);
     --color-primary-d: hsl(344, 96%, 44%);
-    --color-text: hsl(0, 0%, 90%);
+    --color-text: hsl(0, 0%, 96%);
     --color-text-d: hsl(0, 0%, 10%);
-    --color-text-shadow: hsl(0, 0%, 74%);
+    --color-text-shadow: hsl(0, 60%, 34%);
     --font: 'Poppins'
 }
 
 * {
     margin: 0;
-    transition: 0.25s;
+    transition: 1.5s;
 }
 
 html {
@@ -106,7 +106,7 @@ p {
 }
 
 .main {
-    background: linear-gradient(dimgray, black);
+    background: linear-gradient(rgb(184, 74, 74), black);
     overflow: hidden;
     min-height: 100vh;
 }
